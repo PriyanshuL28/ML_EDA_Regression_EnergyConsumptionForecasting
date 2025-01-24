@@ -1,0 +1,1 @@
+An EDA and Machine Learning Time-Series Regression Forecasting exercise on the PMJE Energy Consumption dataset demonstrating time-series analysis and the use of Time-Series Split, XGBoost, etc. The model is optimized using hyperparameter tuning through GridSearchCV. A Rob Mulla guided exercise that can be found on his YouTube channel.
